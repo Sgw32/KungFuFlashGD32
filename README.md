@@ -13,6 +13,7 @@ GD32 is more available than official STM32 making it better and cheaper for use.
 Known issues:
 
 * EasyFlash packs are not working. I do not know why. 
+* USB is untested(I think it is not working too, but needs testing) 
 
 ![Kung Fu Flash Launcher](pics/launcher.jpg)
 
